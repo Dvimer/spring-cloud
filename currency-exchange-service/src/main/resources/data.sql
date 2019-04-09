@@ -1,0 +1,2 @@
+insert into exchange_value (id,currency_from,currency_to,conversion_multiple,port) values (1,'RUB','USA',67,0);
+insert into exchange_value (id,currency_from,currency_to,conversion_multiple,port) values (2,'RUB','RUP',4,0);
